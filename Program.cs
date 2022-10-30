@@ -5,7 +5,7 @@ namespace LeitorArquivo
     {
         static void Main(string[] args)
         {
-            FileService.GetAllNamesFiles("C:\\Users\\User\\OneDrive\\Área de Trabalho\\Arquivo\\");
+            FileService.GetAllNamesFiles("CAMINHO:\seu\diretorio\aqui");
         }
      
     }
