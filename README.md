@@ -6,7 +6,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-<img src="https://png.pngtree.com/png-vector/20190124/ourlarge/pngtree-gray-folder-cartoon-illustration-png-image_550899.jpg" width=50% height=50%>
+<img src="https://png.pngtree.com/png-vector/20190124/ourlarge/pngtree-gray-folder-cartoon-illustration-png-image_550899.jpg" width=40% height=60%>
 
 
 O obejtivo dessa programa: Passado um diretório leia todos os arquivos linha a linha e mostre na tela o seu conteúdo 
